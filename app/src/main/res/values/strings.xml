@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string-array name="location">
+        <item>Hanoi, Vietnam</item>
+        <item>Danang, Vietnam</item>
+        <item>Ho Chi Minh, Vietnam</item>
+        <item>Hue, Vietnam</item>
+    </string-array>
+    <string name="week_section">Week Weather</string>
+    <string name="today_section">Today Weather</string>
+    <string name="detail_section">Detail Information</string>
+    <string name="note_section">Create your note</string>
+</resources>

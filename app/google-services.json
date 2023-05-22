@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097736263558",
+    "project_id": "weather-moocscast",
+    "storage_bucket": "weather-moocscast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097736263558:android:15c0155c866edd05003e07",
+        "android_client_info": {
+          "package_name": "com.example.weatherforecast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097736263558-6ehckqqg9khe3gak2q1cuuarkcm4v89g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51Nl2ODFPTtB-a064gaRwCTuxAtBpLVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097736263558-6ehckqqg9khe3gak2q1cuuarkcm4v89g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
